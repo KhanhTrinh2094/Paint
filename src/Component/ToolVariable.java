@@ -1,0 +1,23 @@
+package Component;
+
+public enum ToolVariable {
+
+    DEFAULT,
+    SELECT_TOOL,
+    DRAW_TOOL,
+    TEXT_TOOL,
+    FILL_TOOL,
+    ERASE_TOOL,
+    PICKER_TOOL,
+    CROP_TOOL,
+    GRADIENT_TOOL,
+    DRAW_LINE,
+    DRAW_RECT,
+    DRAW_ROUNDRECT,
+    DRAW_CIRCLE,
+    DRAW_TRIANGLE,
+    SINGLE_COLOR,
+    GRADIENT_COLOR,
+    TEXTURE_COLOR
+    
+}
